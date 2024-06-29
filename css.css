@@ -1,0 +1,117 @@
+
+.shadow{
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 2px rgb(212, 212, 212);
+  width: 1422px;
+  height: 83px;
+  position: relative;
+  right: 32px;
+}
+.menu-container{
+  font-size: 21px;
+  padding: 23px;
+  float: right;
+  margin-right: 68px;
+}
+.dv-left:hover{
+  color: rgb(255, 166, 0);
+}
+span{
+  padding: 23px;
+}
+a{
+  font: 1em LMU Yekan;
+ text-decoration: none;
+ color: rgb(156, 156, 156);
+ transition-duration: 1s;
+}
+a:hover{
+  text-decoration: none;
+  color: rgb(174, 0, 255);
+}
+::selection{
+  background-color: rgb(156, 0, 196);
+  color: rgb(255, 255, 255);
+}
+.logo{
+  float: left;
+  margin-top: -79px;
+  margin-left: 22px;
+}
+.box{
+  background-color: rgb(255, 255, 255);
+  border-radius: 17px;
+  border: 1px solid rgb(187, 187, 187);
+  margin-top: 79px;
+  width:  380px;
+  height: 570px;
+  position: relative;
+  right: -500px;
+  top: -45px;
+}
+.win{
+  margin: 32px 125px;
+}
+.text{
+  margin: 10px 50px;
+  font: 2em impact;
+}
+.butt{
+  width:  200px;
+  height: 68px;
+  background-color: blueviolet;
+  margin: 37px 87px;
+  border-radius: 17px;
+  transition-duration: .5s;
+}
+.butt:hover{
+  background-color: rgb(97, 0, 187);
+}
+h3{
+  color: aliceblue;
+  text-align: center;
+  padding-top: 15px;
+  margin-left: -4px;
+  font: 1.5em LMU Vazir;
+}
+.mark{
+  position: relative;
+  left: 23px;
+  top: 500px;
+  width: 328px;
+  height: 89px;
+  text-align: center;
+  border-radius: 12px;  
+  background-color: rgb(241, 241, 241);
+  box-shadow: 0px 6px 0px rgb(206, 0, 206);
+  transition-duration: 0.5s;
+}
+.mark:hover{
+  box-shadow: 0px 9px 0px rgb(206, 0, 206);
+}
+.haq{
+  margin-right: -71px;
+  font: 1.7em vazir;
+  margin-top: 21px
+}
+p{
+  font: 1em vazir;
+  margin-top: 50px;
+}
+.mozs{
+  
+  font: 6em vazir;
+  margin-left: 934px;
+}
+.khiars{
+  font: 2em vazir;
+  margin-left: 860px;
+  margin-top: -60px;
+
+
+
+}
+.float{
+  float: left;
+  font: 2.3em vazir;
+}
